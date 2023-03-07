@@ -20,4 +20,10 @@ Here the workflow of how I import the data that my model will use:
 *	Compute the mean value of the RVI image
 *	For each coordinate, obtain an array of RVI values and an array of dates when these values were taken.
 
+Here an image of the window use to calculate the mean RVI (the one with less resolution). And another one to give an idea of the size of it, the red box is the window use:
 ![alt text](https://github.com/MrBounty/Data_portfolio/blob/main/EY%20data%20challenges%202023%20level%201/image/Picture1.png)
+
+Here an plot of the mean RVI value over time for coordinate with and without rice:   
+As we can see on those graph, coordinate with rice follow a periodic curve because of the life cycle of the rice as presented in figure xx.  That is what my model will try to use to predict if there is rice at a certain coordinate. Also, during my experimentation, I tried to use a polynomial interpolation because of the shape of the curve but I did not obtain a satisfactory result.
+![alt text](https://github.com/MrBounty/Data_portfolio/blob/main/EY%20data%20challenges%202023%20level%201/image/Picture3.png)
+![alt text](https://github.com/MrBounty/Data_portfolio/blob/main/EY%20data%20challenges%202023%20level%201/image/Picture4.png)
