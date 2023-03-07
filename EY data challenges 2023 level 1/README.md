@@ -19,3 +19,5 @@ Here the workflow of how I import the data that my model will use:
 *	Obtain an image of radio wave values and calculate the vegetation index (RVI) to represent the amount of vegetation.
 *	Compute the mean value of the RVI image
 *	For each coordinate, obtain an array of RVI values and an array of dates when these values were taken.
+
+![alt text](https://github.com/MrBounty/Data_portfolio/blob/main/EY%20data%20challenges%202023%20level%201/image/Picture1.png)
