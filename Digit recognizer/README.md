@@ -3,7 +3,7 @@ The Kaggle Digit Recognizer competition is a challenging problem in the field of
 
 The ability to recognize handwritten digits has a wide range of applications, from reading postal codes to recognizing the contents of financial documents. In recent years, deep learning techniques have made significant advancements in the field of image recognition, and the Kaggle Digit Recognizer competition provides an excellent opportunity to explore these techniques in practice.
 
-In this portfolio, I will present my solution to the Kaggle Digit Recognizer competition. My approach involves developing a convolutional neural network (CNN) architecture that is trained on the MNIST dataset using techniques such as data augmentation, regularization, and hyperparameter tuning.
+In this portfolio, I will present my solution to the Kaggle Digit Recognizer competition that obtain around **0.99% accuracy**. My approach involves developing a convolutional neural network (CNN) architecture that is trained on the MNIST dataset using techniques such as data augmentation, regularization, and hyperparameter tuning.
 
 Through my solution, I aim to demonstrate my skills in machine learning, deep learning, and computer vision, and how I approach and solve real-world problems.
 
