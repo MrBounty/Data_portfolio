@@ -1,5 +1,0 @@
-time_of_interest = "2022-01-01/2022-12-31" # Data use to get vv and vh
-box_size_deg = 0.002                       # Surrounding box in degrees, yields approximately 5x5 pixel region
-resolution = 1                             # meters per pixel 
-scale = resolution / 111320.0              # degrees per pixel for crs=4326 
-Not cloud clean
