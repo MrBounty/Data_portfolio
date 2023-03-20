@@ -36,3 +36,6 @@ Then used this model to make a simple application.
 The House Prices: Advanced Regression Techniques Kaggle competition is a popular machine learning challenge in which participants are tasked with predicting the final sale price of homes in Ames, Iowa, based on a set of features describing various aspects of the properties. The competition dataset contains 79 explanatory variables, including information about the house's size, location, age, and quality, as well as other factors such as the presence of amenities like fireplaces and pools.
 
 For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses. **And obtain a Root-Mean-Squared-Error (RMSE) of 0.135.**
+
+![image](https://user-images.githubusercontent.com/79221338/226406756-f85e019a-44b7-4208-bb9a-25433a39ccf3.png)
+
