@@ -27,7 +27,7 @@ I created my solution to identify rice crops in Vietnam using deep learning tech
 ## Digit recognizer - Computer vision
 The Kaggle Digit Recognizer competition is a challenging problem in the field of computer vision and machine learning. The objective of this competition is to develop a model that can accurately recognize handwritten digits from the MNIST dataset, which contains tens of thousands of images of handwritten digits.
 
-For that I built a convolutional neural network model for image classification using the Keras framework with two convolutional layers, max pooling, and dropout layers, followed by two fully connected layers with softmax activation for classification into one of ten possible classes, using the sparse categorical cross-entropy loss function and the Adam optimizer.
+For that I built a convolutional neural network model for image classification using the Keras framework with two convolutional layers, max pooling, and dropout layers, followed by two fully connected layers with softmax activation for classification into one of ten possible classes, using the sparse categorical cross-entropy loss function and the Adam optimizer. **And obtain an accuracy of 99.2%.**
 
 Then used this model to make a simple application.  
 ![most likely synonym - Google Search](https://user-images.githubusercontent.com/79221338/226188313-34b72d79-9bfe-4943-8a4c-87971bda58f8.gif)
@@ -35,4 +35,4 @@ Then used this model to make a simple application.
 ## House prices - Regression
 The House Prices: Advanced Regression Techniques Kaggle competition is a popular machine learning challenge in which participants are tasked with predicting the final sale price of homes in Ames, Iowa, based on a set of features describing various aspects of the properties. The competition dataset contains 79 explanatory variables, including information about the house's size, location, age, and quality, as well as other factors such as the presence of amenities like fireplaces and pools.
 
-For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses.
+For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses. **And obtain a Root-Mean-Squared-Error (RMSE) of 0.135.**
