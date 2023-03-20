@@ -5,7 +5,7 @@ Participants are expected to develop models that accurately predict the sale pri
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-My model for this competition used deep learning technique and neural network. I used python keras packages 
+For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses.
 
 # Import packages
 ```python
