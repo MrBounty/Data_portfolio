@@ -1,8 +1,11 @@
+**NOTE: Portfolio in progress**
+
 # Data portfolio
 [TODO] Add a quick description of:
 * Me
 * Why I want to work in data
 * My main interess and strenght
+* ect...
 
 # Agenda
 * EY data challenges 2023 level 1 - Time series & Binary classification
