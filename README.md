@@ -1,22 +1,17 @@
 **NOTE: Portfolio in progress**
 
-# Data portfolio
-[TODO] Add a quick description of:
-* Me
-* Why I want to work in data
-* My main interess and strenght
-* ect...
-
 # Agenda
-* [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
-* EY data challenges 2023 level 2 - Time series & Regression
-* Video encoding - AutoEncoder
-* [House prices](https://github.com/MrBounty/Data_portfolio#house-prices---regression) - Regression
-* Titanic - Binary classification
-* Mask detection - Computer vision
-* [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
-* AI learn to play pong - Reinforcement learning
-* Other than data project
+* Projects
+  - [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
+  - EY data challenges 2023 level 2 - Time series & Regression
+  - Video encoding - AutoEncoder
+  - [House prices](https://github.com/MrBounty/Data_portfolio#house-prices---regression) - Regression
+  - Titanic - Binary classification
+  - Mask detection - Computer vision
+  - [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
+  - AI learn to play pong - Reinforcement learning
+  - Other than data project
+* Certifications
 
 ## EY data challenges 2023 level 1 - Time series & Binary classification
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
@@ -48,3 +43,20 @@ For this challenge, I utilized deep learning techniques and a neural network app
 
 ![image](https://user-images.githubusercontent.com/79221338/226406756-f85e019a-44b7-4208-bb9a-25433a39ccf3.png)
 
+# Certifications
+| Name  | description | Issuing organization | Date |
+| ------------- | ------------- | ------------- | ------------- |
+| Professional Scrum Master I Certification (PSM 1) | [TODO] | Scrum.org | Planned |
+| Microsoft Azure AI Fundamentals | [TODO] | Microsoft | 2023 |
+| Deep Learning with Python and Keras | [TODO] | Udemy | 2023 |
+| The Complete machine Learning Course with Python | [TODO] | Udemy | 2023 |
+| Deep Learning A-Z: Hands-On Artificial Neural Networks | [TODO] | Udemy | 2023 |
+| Machine Learning A-Z™: Python & R in Data Science [2022] | [TODO] | Udemy | 2023 |
+| The Complete SQL Bootcamp | [TODO] | Udemy | 2023 |
+| Using MongoDB with Python | [TODO] | MongoDB | 2023 |
+| Project Management Fundamentals | [TODO] | Udemy | 2023 |
+| Azure Fundamentals | [TODO] | Microsoft | 2022 |
+| Power Platform Fundamentals | [TODO] | Microsoft | 2022 |
+| Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [TODO] | Udemy | 2022 |
+| Google Data Analytics Specialization | [TODO] | Google | 2022 |
+| Python for Everybody Specialization | [TODO] | Coursera | 2021 |
