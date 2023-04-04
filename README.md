@@ -44,10 +44,17 @@ For this challenge, I utilized deep learning techniques and a neural network app
 ![image](https://user-images.githubusercontent.com/79221338/226406756-f85e019a-44b7-4208-bb9a-25433a39ccf3.png)
 
 # Certifications
-| Name  | description | Issuing organization | Date |
+| Name  | Link | Issuing organization | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| Professional Scrum Master I Certification (PSM 1) | [TODO] | Scrum.org | Planned |
+| Professional Scrum Master I Certification (PSM 1) | [TODO] | Scrum.org | 2023 |
 | Microsoft Azure AI Fundamentals | [TODO] | Microsoft | 2023 |
+| Power Platform Fundamentals | [TODO] | Microsoft | 2022 |
+| Azure Fundamentals | [TODO] | Microsoft | 2022 |
+| Google Data Analytics Specialization | [TODO] | Google | 2022 |
+
+# Trainings
+| Name  | Link | Issuing organization | Date |
+| ------------- | ------------- | ------------- | ------------- |
 | Deep Learning with Python and Keras | [TODO] | Udemy | 2023 |
 | The Complete machine Learning Course with Python | [TODO] | Udemy | 2023 |
 | Deep Learning A-Z: Hands-On Artificial Neural Networks | [TODO] | Udemy | 2023 |
@@ -55,8 +62,5 @@ For this challenge, I utilized deep learning techniques and a neural network app
 | The Complete SQL Bootcamp | [TODO] | Udemy | 2023 |
 | Using MongoDB with Python | [TODO] | MongoDB | 2023 |
 | Project Management Fundamentals | [TODO] | Udemy | 2023 |
-| Azure Fundamentals | [TODO] | Microsoft | 2022 |
-| Power Platform Fundamentals | [TODO] | Microsoft | 2022 |
 | Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [TODO] | Udemy | 2022 |
-| Google Data Analytics Specialization | [TODO] | Google | 2022 |
 | Python for Everybody Specialization | [TODO] | Coursera | 2021 |
