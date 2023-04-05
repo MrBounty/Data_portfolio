@@ -2,7 +2,7 @@
 
 # Agenda
 * Projects
-  - My chatGPT - Using chatGPT to redo chatGPT
+  - [My chatGPT](https://github.com/MrBounty/Data_portfolio/blob/main/README.md#my-chatgpt---using-chatgpt-to-redo-chatgpt) - Using chatGPT to redo chatGPT
   - [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
   - EY data challenges 2023 level 2 - Time series & Regression
   - Video encoding - AutoEncoder
