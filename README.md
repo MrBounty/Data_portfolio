@@ -1,28 +1,19 @@
 **NOTE: Portfolio in progress**
 
 # Agenda
-* Projects
-  - [My chatGPT](https://github.com/MrBounty/Data_portfolio/blob/main/README.md#my-chatgpt---using-chatgpt-to-redo-chatgpt) - Using chatGPT to redo chatGPT
+* Projects - Large Language Model
+  - Document sumarizer and Q&A - Summarize one or multiple document and ask question about it
+  - Meeting minutes - Create a structured meeting minutes in seconds
+  - Translator - Translate any text
+  - My chatGPT - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
+* Projects - Data Science
   - [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
-  - EY data challenges 2023 level 2 - Time series & Regression
-  - Video encoding - AutoEncoder
+  - EY data challenges 2023 level 2 - Regression
   - [House prices](https://github.com/MrBounty/Data_portfolio#house-prices---regression) - Regression
   - Titanic - Binary classification
-  - Mask detection - Computer vision
   - [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
-  - AI learn to play pong - Reinforcement learning
   - Other than data project
 * Certifications
-
-## My chatGPT - Using chatGPT to redo chatGPT
-
-I created a graphical user interface (GUI) to interact with OpenAI's language model, GPT-3 and GPT-4. I used the Python PyQt5 library to create the GUI, and OpenAI's API to interact with the model. The program allows users to have multiple chat windows and switch between them. Each chat window sends messages to GPT and receives a response, which is then displayed in the chat window. The program also has features like renaming chat windows and deleting them. I also added styling to make the program look better. Overall, this program demonstrates the potential of GPT-3 to power chatbots and assist with natural language processing tasks.
-
-**It took me around 4h to do it !**  
-[Link](https://github.com/MrBounty/Data_portfolio/tree/main/My%20chatGPT)
-
-https://user-images.githubusercontent.com/79221338/230113940-503da08e-99f6-4f0e-8017-11e5fad12cbb.mp4
-
 
 ## EY data challenges 2023 level 1 - Time series & Binary classification
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
