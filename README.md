@@ -3,17 +3,18 @@
 # 🗓️ Agenda
 * About me
 * Projects - Large language models
-  - Document sumarizer and Q&A - Summarize one or multiple document and ask question about it
-  - Meeting minutes generator - Create a structured meeting minutes in seconds
-  - Translator - Translate any text
-  - My chatGPT - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
+  - **Document sumarizer and Q&A** - Summarize one or multiple document and ask question about it
+  - **Meeting minutes generator** - Create a structured meeting minutes in seconds
+  - **Translator** - Translate any text
+  - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
 * Projects - Data Science
-  - [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
-  - EY data challenges 2023 level 2 - Regression
-  - [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
-  - [House prices](https://github.com/MrBounty/Data_portfolio#house-prices---regression) - Regression
-  - Titanic - Binary classification
-  - Other than data project
+  - **EY data challenges 2023 level 1** - Time series & Binary classification
+  - **EY data challenges 2023 level 2** - Regression
+  - **Digit recognizer** - Computer vision
+  - **House prices** - Regression
+  - **Titanic** - Binary classification
+* Other than data project
+  - Project zomboid mods
 * Certifications and trainings
 
 ---
