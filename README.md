@@ -10,11 +10,13 @@
 * Projects - Data Science
   - [EY data challenges 2023 level 1](https://github.com/MrBounty/Data_portfolio#ey-data-challenges-2023-level-1---time-series--binary-classification) - Time series & Binary classification
   - EY data challenges 2023 level 2 - Regression
+  - [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
   - [House prices](https://github.com/MrBounty/Data_portfolio#house-prices---regression) - Regression
   - Titanic - Binary classification
-  - [Digit recognizer](https://github.com/MrBounty/Data_portfolio#digit-recognizer---computer-vision) - Computer vision
   - Other than data project
-* Certifications
+* Certifications and trainings
+
+---
 
 # 📝 About me
 👋 **Introduction:**
@@ -41,6 +43,8 @@ Finds joy in cooking and gaining knowledge through documentary watching.
 🚀 **Future Goals:**
 Aspires to utilize Large Language Models to create bespoke solutions for businesses, automating complex tasks and unlocking new possibilities.
 
+---
+
 # 🔨 Projects
 ## 🗣️💻 Large language models
 
@@ -52,26 +56,26 @@ The app also features a **chat-like interface**, enabling users to **ask questio
 
 This app aims to streamline document processing by leveraging embeddings for summarization and interactive question-answering capabilities.
 
-[TODO] Add video and link
+[TODO] Add video
 
 ### 📝⏱️ Meeting minutes generator
 
-[TODO] Add video and link
+[TODO] Add video and description
 
 ### 🌍🗣️ Translator
 
-[TODO] Add video and link
+[TODO] Add video and description
 
 ### 💬🤖 My chatGPT
 
-[TODO] Add video and link
+[TODO] Add video and description
 
 ## 🤖🧠 Machine and Deep Learning
 
 ### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
 
-I created my solution to identify rice crops in Vietnam using deep learning technologies with Keras. Using data solely from the satellite Sentinel 1, my model achieved an **accuracy of 100%**.
+I created my solution to identify rice crops in Vietnam using deep learning technologies with Keras. Using data solely from the satellite Sentinel 1, my model achieved an **accuracy of 100% and was in the 10 best solution out of 1300 participants**.
 
 [Link](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
 
@@ -82,7 +86,7 @@ I created my solution to identify rice crops in Vietnam using deep learning tech
 ### 🌾📈 EY data challenges 2023 level 2 - Regression
 The EY Open Science Data Challenge Level 2 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that predict the production of rice crops fields in Vietnam.
 
-I created my solution using machine learning technologies. My model achieved an **accuracy of 64%**.
+I created my solution using machine learning technologies. My model achieved an **accuracy of 64% and was in the 5 best solution out of 1300 participants**
 
 ### 🔢👁️ Digit recognizer - Computer vision
 The Kaggle Digit Recognizer competition is a challenging problem in the field of computer vision and machine learning. The objective of this competition is to develop a model that can accurately recognize handwritten digits from the MNIST dataset, which contains tens of thousands of images of handwritten digits.
@@ -101,7 +105,11 @@ For this challenge, I utilized deep learning techniques and a neural network app
 
 [Link](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)
 
-![image](https://user-images.githubusercontent.com/79221338/226406756-f85e019a-44b7-4208-bb9a-25433a39ccf3.png)
+### 🚢🔢 Titanic - Binary classification
+
+[TODO]
+
+---
 
 # 🏆 Certifications
 | Name  | Link | Issuing organization | Date |
