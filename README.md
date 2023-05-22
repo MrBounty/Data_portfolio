@@ -79,7 +79,9 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 - Generated **clear and concise responses** with calculation results, ensuring ease of understanding for users.
 - Demonstrated proficiency in leveraging NLP techniques to create an intelligent chatbot tailored for Excel-related inquiries and calculations.
 
-[TODO] Add video
+
+https://github.com/MrBounty/Data_portfolio/assets/79221338/905c2c30-c613-4254-bede-2126b527758c
+
 
 <br/><br/>
 
