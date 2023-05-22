@@ -2,11 +2,12 @@
 
 # 🗓️ Agenda
 * About me
-* Projects - Large language models
+* My Projects - Large language models
+  - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
+  - **Excel chatbot** - Human like interaction with Excel file
   - **Document sumarizer and Q&A** - Summarize one or multiple document and ask question about it
   - **Meeting minutes generator** - Create a structured meeting minutes in seconds
   - **Translator** - Translate any text
-  - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
 * Projects - Data Science
   - **EY data challenges 2023 level 1** - Time series & Binary classification
   - **EY data challenges 2023 level 2** - Regression
@@ -46,39 +47,79 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 ---
 
-# 🔨 Projects
-## 🗣️💻 Large language models
+# 🔨 My Projects - 🗣️💻 Large language models
+
+### 💬🤖 My chatGPT
+
+- Developed a **custom chatbot** capable of **accessing the internet, Wikipedia and a document database** for comprehensive information retrieval.
+- Equipped the chatbot with **accurate math capabilities**, enabling it to perform complex mathematical calculations.
+- Leveraged the power of natural language processing and machine learning to create an interactive and **human-like conversational** experience.
+- Integrated the ability to **generate documents**, allowing the chatbot to produce rich and informative content on the fly.
+- Maintains **long-term memory** to remember past interactions and maintain context.
+- Seamlessly **combines information from various sources** to provide accurate and insightful responses.
+- Offers a **wide range of functionalities**, including answering questions, providing recommendations, solving problems, and generating documents.
+- Demonstrates a high level of **adaptability and versatility** in meeting users' needs through interactive and context-aware conversations.
+- Showcases proficiency in leveraging advanced technologies to build a sophisticated and intelligent chatbot with a broad range of capabilities.
+
+[TODO] Add video
+
+### 📊💬 Excel chatbot
+
+- Developed a **chatbot specifically designed to interact with Excel** files and perform calculations using NLP techniques.
+- Implemented **seamless integration** with Excel files, allowing users to ask questions and provide instructions in plain language.
+- Utilized NLP algorithms to **understand and interpret user queries** related to Excel data and operations.
+- **Extracted relevant information** from the Excel file, such as cell values, formulas, and sheet names, to provide accurate responses.
+- Supported a **wide range of calculations**, including arithmetic operations, statistical analyses, and data manipulations, all through natural language interactions.
+- Enabled users to **ask questions** about specific data ranges, filter conditions, and formatting requirements within the Excel file.
+- Generated **clear and concise responses** with calculation results, ensuring ease of understanding for users.
+- Demonstrated proficiency in leveraging NLP techniques to create an intelligent chatbot tailored for Excel-related inquiries and calculations.
+
+[TODO] Add video
 
 ### 📚💭 Document sumarizer and Q&A
-I created an app that takes one or multiple **documents as input** and utilizes embeddings to **summarize their content**.  
-The app employs embeddings, which capture the semantic meaning of words and sentences, to understand the context and relationships within the text.  
-It then generates concise summaries of the documents, allowing users to grasp the main points quickly.  
-The app also features a **chat-like interface**, enabling users to **ask questions about the documents** and receive relevant answers based on the content. 
-
-This app aims to streamline document processing by leveraging embeddings for summarization and interactive question-answering capabilities.
+- Developed an innovative app for **document summarization and Q&A** using advanced techniques.
+- Implemented an input system that **accepts one or multiple documents** for processing.
+- **Leveraged embeddings** to capture semantic meaning and understand context within the text.
+- Generated concise summaries of the documents, enabling users to quickly grasp the main points.
+- Designed a **chat-like interface** that allows users to ask questions about the documents.
+- Provided relevant **answers and sources** based on the content of the documents.
+- **Streamlined document processing** by combining summarization and interactive question-answering capabilities.
+- Demonstrated proficiency in leveraging embeddings and advanced techniques for efficient document analysis.
 
 [TODO] Add video
 
 ### 📝⏱️ Meeting minutes generator
 
-[TODO] Add video and description
+- Developed a web app to transform the process of **generating meeting minutes**.  
+- Utilized a large language model to capture and **summarize key discussions**.  
+- Incorporated natural language processing and machine learning to **extract essential information and identify action items**.  
+- Generated comprehensive meeting minutes with exceptional **accuracy and efficiency**.  
+- **Saved valuable time and effort** by automating the task of documenting meetings effectively.  
+- Created a **user-friendly interface** and seamless integration for a seamless user experience.  
+- Showcased proficiency in leveraging advanced technologies to streamline essential business processes.
+
+[TODO] Add video
 
 ### 🌍🗣️ Translator
 
-[TODO] Add video and description
+- Developed a **dynamic Translator** using a powerful large language model.
+- Enabled seamless translation of text between multiple languages with exceptional **accuracy and fluency**.
+- Leveraged the language model's advanced capabilities to **comprehend context and nuances** in the source text.
+- Generated **high-quality translations** in real-time.
+- Provided an **intuitive interface** for users to input text and select the target language.
+- Supported a **wide range of languages** to overcome language barriers and facilitate effective communication.
+- Demonstrated proficiency in utilizing large language models to build innovative solutions for global connectivity and understanding.
 
-### 💬🤖 My chatGPT
+[TODO] Add video
 
-[TODO] Add video and description
-
-## 🤖🧠 Machine and Deep Learning
+# 🔨 My Projects - 🤖🧠 Machine and Deep Learning
 
 ### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
 
 I created my solution to identify rice crops in Vietnam using deep learning technologies with Keras. Using data solely from the satellite Sentinel 1, my model achieved an **accuracy of 100% and was in the 10 best solution out of 1300 participants**.
 
-[Link](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79221338/226183748-afe263fb-f68b-4996-b743-e55372003f1f.jpg">
@@ -89,12 +130,15 @@ The EY Open Science Data Challenge Level 2 aims to create open-source solutions 
 
 I created my solution using machine learning technologies. My model achieved an **accuracy of 64% and was in the 5 best solution out of 1300 participants**
 
+[TODO] Add code and more information
+
 ### 🔢👁️ Digit recognizer - Computer vision
 The Kaggle Digit Recognizer competition is a challenging problem in the field of computer vision and machine learning. The objective of this competition is to develop a model that can accurately recognize handwritten digits from the MNIST dataset, which contains tens of thousands of images of handwritten digits.
 
 For that I built a convolutional neural network model for image classification using the Keras framework with two convolutional layers, max pooling, and dropout layers, followed by two fully connected layers with softmax activation for classification into one of ten possible classes, using the sparse categorical cross-entropy loss function and the Adam optimizer. **And obtain an accuracy of 99.2%.**
 
-[Link](https://github.com/MrBounty/Data_portfolio/tree/main/Digit%20recognizer)
+[Link](https://github.com/MrBounty/Data_portfolio/tree/main/Digit%20recognizer)  
+[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-score-0-9864-conv2d-data-augmentation)
 
 Then used this model to make a simple application.  
 ![most likely synonym - Google Search](https://user-images.githubusercontent.com/79221338/226188313-34b72d79-9bfe-4943-8a4c-87971bda58f8.gif)
@@ -104,32 +148,39 @@ The House Prices: Advanced Regression Techniques Kaggle competition is a popular
 
 For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses. **And obtain a Root-Mean-Squared-Error (RMSE) of 0.135.**
 
-[Link](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)  
+[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/house-pricing-with-keras)
 
 ### 🚢🔢 Titanic - Binary classification
+In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an exciting journey to predict binary classifications with an impressive level of accuracy. Utilizing the power of Keras and deep learning techniques, I achieved remarkable scores of 0.78 and 0.8, respectively, for the Titanic and Spaceship Titanic datasets. Through meticulous data analysis, feature engineering, and model optimization, I crafted a robust solution that successfully predicted the outcomes in these two distinct scenarios. These challenges allowed me to demonstrate my proficiency in leveraging cutting-edge technologies and my ability to tackle real-world problems with precision and innovation.
 
-[TODO]
+[Spaceship titanic Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-around-0-8-accuracy)
+
+# 🔨 My Projects - 💻🔧 Other
+
+[TODO] Add Project zomboid mods
 
 ---
 
 # 🏆 Certifications
 | Name  | Link | Issuing organization | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| Professional Scrum Master I Certification (PSM 1) | [TODO] | Scrum.org | 2023 |
-| Microsoft Azure AI Fundamentals | [TODO] | Microsoft | 2023 |
-| Power Platform Fundamentals | [TODO] | Microsoft | 2022 |
-| Azure Fundamentals | [TODO] | Microsoft | 2022 |
-| Google Data Analytics Specialization | [TODO] | Google | 2022 |
+| Professional Scrum Master I Certification (PSM 1) | [Link](https://www.scrum.org/assessments/professional-scrum-master-i-certification) | Scrum.org | 2023 |
+| Microsoft Azure AI Engineer Associate | [Link](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/) | Microsoft | In progress |
+| Microsoft Azure AI Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/) | Microsoft | 2023 |
+| Microsoft Power Platform Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) | Microsoft | 2022 |
+| Microsoft Azure Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) | Microsoft | 2022 |
+| Google Data Analytics Specialization | [Link](https://www.coursera.org/professional-certificates/google-data-analytics) | Google | 2022 |
 
 # 🎓 Trainings
 | Name  | Link | Issuing organization | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| Deep Learning with Python and Keras | [TODO] | Udemy | 2023 |
-| The Complete machine Learning Course with Python | [TODO] | Udemy | 2023 |
-| Deep Learning A-Z: Hands-On Artificial Neural Networks | [TODO] | Udemy | 2023 |
-| Machine Learning A-Z™: Python & R in Data Science [2022] | [TODO] | Udemy | 2023 |
-| The Complete SQL Bootcamp | [TODO] | Udemy | 2023 |
+| Deep Learning with Python and Keras | [Link](https://www.udemy.com/course/deep-learning-with-python-and-keras/) | Udemy | 2023 |
+| The Complete machine Learning Course with Python | [Link](https://www.udemy.com/course/machine-learning-course-with-python/) | Udemy | 2023 |
+| Deep Learning A-Z: Hands-On Artificial Neural Networks | [Link](https://www.udemy.com/course/deeplearning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROWMTA-A&utm_content=deal4584&utm_term=_._ag_80979681514_._ad_533999950009_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_2442_._pd__._&matchtype=&gclid=CjwKCAjwpayjBhAnEiwA-7ena5gF47oDBqJ5YODKn9syj9rR1Xahai9Eb_sIRrmuP40aOcLz3OsKNhoC5PoQAvD_BwE) | Udemy | 2023 |
+| Machine Learning A-Z™: Python & R in Data Science [2022] | [Link](https://www.udemy.com/course/machinelearning/) | Udemy | 2023 |
+| The Complete SQL Bootcamp | [Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | Udemy | 2023 |
 | Using MongoDB with Python | [TODO] | MongoDB | 2023 |
-| Project Management Fundamentals | [TODO] | Udemy | 2023 |
-| Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [TODO] | Udemy | 2022 |
-| Python for Everybody Specialization | [TODO] | Coursera | 2021 |
+| Project Management Fundamentals | [Link](https://www.udemy.com/course/project-management-fundamentals-gantt/) | Udemy | 2023 |
+| Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [Link](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/) | Udemy | 2022 |
+| Python for Everybody Specialization | [Link](https://www.coursera.org/specializations/python) | Coursera | 2021 |
