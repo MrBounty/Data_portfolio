@@ -14,6 +14,9 @@
   - **Digit recognizer** - Computer vision
   - **House prices** - Regression
   - **Titanic** - Binary classification
+* Projects - Data manipulation
+  - **Data Cleaning and Preprocessing** - Automated pipeline that efficiently cleans and preprocesses raw data.
+  - **Automated Data Visualization** - Automatically generates visually appealing and insightful charts and graphs from datasets.
 * Other than data project
   - Project zomboid mods
 * Certifications and trainings
@@ -63,6 +66,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 [TODO] Add video
 
+<br/><br/>
+
 ### 📊💬 Excel chatbot
 
 - Developed a **chatbot specifically designed to interact with Excel** files and perform calculations using NLP techniques.
@@ -76,6 +81,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 [TODO] Add video
 
+<br/><br/>
+
 ### 📚💭 Document sumarizer and Q&A
 - Developed an innovative app for **document summarization and Q&A** using advanced techniques.
 - Implemented an input system that **accepts one or multiple documents** for processing.
@@ -87,6 +94,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 - Demonstrated proficiency in leveraging embeddings and advanced techniques for efficient document analysis.
 
 [TODO] Add video
+
+<br/><br/>
 
 ### 📝⏱️ Meeting minutes generator
 
@@ -100,6 +109,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 [TODO] Add video
 
+<br/><br/>
+
 ### 🌍🗣️ Translator
 
 - Developed a **dynamic Translator** using a powerful large language model.
@@ -111,6 +122,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 - Demonstrated proficiency in utilizing large language models to build innovative solutions for global connectivity and understanding.
 
 [TODO] Add video
+
+<br/><br/>
 
 # 🔨 My Projects - 🤖🧠 Machine and Deep Learning
 
@@ -125,12 +138,16 @@ I created my solution to identify rice crops in Vietnam using deep learning tech
   <img src="https://user-images.githubusercontent.com/79221338/226183748-afe263fb-f68b-4996-b743-e55372003f1f.jpg">
 </p>
 
+<br/><br/>
+
 ### 🌾📈 EY data challenges 2023 level 2 - Regression
 The EY Open Science Data Challenge Level 2 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that predict the production of rice crops fields in Vietnam.
 
 I created my solution using machine learning technologies. My model achieved an **accuracy of 64% and was in the 5 best solution out of 1300 participants**
 
 [TODO] Add code and more information
+
+<br/><br/>
 
 ### 🔢👁️ Digit recognizer - Computer vision
 The Kaggle Digit Recognizer competition is a challenging problem in the field of computer vision and machine learning. The objective of this competition is to develop a model that can accurately recognize handwritten digits from the MNIST dataset, which contains tens of thousands of images of handwritten digits.
@@ -143,6 +160,8 @@ For that I built a convolutional neural network model for image classification u
 Then used this model to make a simple application.  
 ![most likely synonym - Google Search](https://user-images.githubusercontent.com/79221338/226188313-34b72d79-9bfe-4943-8a4c-87971bda58f8.gif)
 
+<br/><br/>
+
 ### 🏠💰 House prices - Regression
 The House Prices: Advanced Regression Techniques Kaggle competition is a popular machine learning challenge in which participants are tasked with predicting the final sale price of homes in Ames, Iowa, based on a set of features describing various aspects of the properties. The competition dataset contains 79 explanatory variables, including information about the house's size, location, age, and quality, as well as other factors such as the presence of amenities like fireplaces and pools.
 
@@ -151,14 +170,34 @@ For this challenge, I utilized deep learning techniques and a neural network app
 [Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)  
 [Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/house-pricing-with-keras)
 
+<br/><br/>
+
 ### 🚢🔢 Titanic - Binary classification
-In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an exciting journey to predict binary classifications with an impressive level of accuracy. Utilizing the power of Keras and deep learning techniques, I achieved remarkable scores of 0.78 and 0.8, respectively, for the Titanic and Spaceship Titanic datasets. Through meticulous data analysis, feature engineering, and model optimization, I crafted a robust solution that successfully predicted the outcomes in these two distinct scenarios. These challenges allowed me to demonstrate my proficiency in leveraging cutting-edge technologies and my ability to tackle real-world problems with precision and innovation.
+In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an exciting journey to predict binary classifications with an impressive level of accuracy. Utilizing the power of Keras and deep learning techniques, I achieved **remarkable scores of 0.78 and 0.8**, respectively, for the Titanic and Spaceship Titanic datasets. Through meticulous data analysis, feature engineering, and model optimization, I crafted a robust solution that successfully predicted the outcomes in these two distinct scenarios. These challenges allowed me to demonstrate my proficiency in leveraging cutting-edge technologies and my ability to tackle real-world problems with precision and innovation.
 
 [Spaceship titanic Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-around-0-8-accuracy)
+
+<br/><br/>
+
+# 🔨 My Projects - 📊✂️ Data manipulation
+
+### 🧹📊 Data Cleaning and Preprocessing
+
+[TODO] Add description and code
+
+<br/><br/>
+
+### 📊🤖 Automated Data Visualization
+
+[TODO] Add description, visual and code
+
+<br/><br/>
 
 # 🔨 My Projects - 💻🔧 Other
 
 [TODO] Add Project zomboid mods
+
+<br/><br/>
 
 ---
 
