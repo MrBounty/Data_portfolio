@@ -50,7 +50,9 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 ---
 
-# 🔨 My Projects - 🗣️💻 Large language models
+# 🔨 My Projects
+
+## 🗣️💻 Large language models
 
 ### 💬🤖 My chatGPT
 
@@ -130,7 +132,7 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/aa470075-b6b0-4b1f-87
 
 <br/><br/>
 
-# 🔨 My Projects - 🤖🧠 Machine and Deep Learning
+## 🤖🧠 Machine and Deep Learning
 
 ### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
@@ -184,7 +186,7 @@ In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an excitin
 
 <br/><br/>
 
-# 🔨 My Projects - 📊✂️ Data manipulation
+## 📊✂️ Data manipulation
 
 ### 🧹📊 Data Cleaning and Preprocessing
 
@@ -198,7 +200,7 @@ In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an excitin
 
 <br/><br/>
 
-# 🔨 My Projects - 💻🔧 Other
+## 💻🔧 Other
 
 [TODO] Add Project zomboid mods
 
