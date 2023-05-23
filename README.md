@@ -97,7 +97,8 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/905c2c30-c613-4254-be
 
 https://github.com/MrBounty/Data_portfolio/assets/79221338/aa470075-b6b0-4b1f-87c2-3f3319d5dec0
 
-**Note:** Summarization is not in the video because of issue with OpenAI server while recording but it's working by just clicking a button.
+**Note:** Summarization is not in the video because of issue with OpenAI server while recording but it's working by just clicking a button.  
+[TODO] Add video with summarization
 
 <br/><br/>
 
