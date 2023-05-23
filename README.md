@@ -66,7 +66,7 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 - Demonstrates a high level of **adaptability and versatility** in meeting users' needs through interactive and context-aware conversations.
 - Showcases proficiency in leveraging advanced technologies to build a sophisticated and intelligent chatbot with a broad range of capabilities.
 
-[TODO] Add video
+https://github.com/MrBounty/Data_portfolio/assets/79221338/a218c1a1-7b2b-4a9b-8fea-f1dab53c74a2
 
 <br/><br/>
 
