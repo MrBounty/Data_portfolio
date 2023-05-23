@@ -68,6 +68,8 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 https://github.com/MrBounty/Data_portfolio/assets/79221338/a218c1a1-7b2b-4a9b-8fea-f1dab53c74a2
 
+[TODO] Redo video to show that the math answer is correct
+
 <br/><br/>
 
 ### 📊💬 Excel chatbot
