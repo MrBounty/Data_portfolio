@@ -15,8 +15,8 @@
   - **House prices** - Regression
   - **Titanic** - Binary classification
 * Projects - Data manipulation
-  - **Data Cleaning and Preprocessing** - Automated pipeline that efficiently cleans and preprocesses raw data.
-  - **Automated Data Visualization** - Automatically generates visually appealing and insightful charts and graphs from datasets.
+  - **Data Cleaning and Preprocessing** - Automated pipeline that efficiently cleans and preprocesses raw data
+  - **Automated Data Visualization** - Automatically generates visually appealing and insightful charts and graphs from datasets
 * Other than data project
   - Project zomboid mods
 * Certifications and trainings
