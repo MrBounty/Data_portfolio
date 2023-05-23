@@ -84,7 +84,7 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/a218c1a1-7b2b-4a9b-8f
 - Demonstrated proficiency in leveraging NLP techniques to create an intelligent chatbot tailored for Excel-related inquiries and calculations.
 
 
-https://github.com/MrBounty/Data_portfolio/assets/79221338/905c2c30-c613-4254-bede-2126b527758c
+https://github.com/MrBounty/Data_portfolio/assets/79221338/905c2c30-c613-4254-bede-2126b527758c  
 **Note:** The table is fix but obviously it's possible to change the app to upload a custom file like in the Document sumarizer and Q&A video
 
 <br/><br/>
