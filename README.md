@@ -3,6 +3,7 @@
 # 🗓️ Agenda
 * About me
 * My Projects - Large language models
+  - **Carbon market-focused chatbot** - A chatbot with a database of documents and url to ask question about the carbon market
   - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
   - **Excel chatbot** - Human like interaction with Excel file
   - **Document sumarizer and Q&A** - Summarize one or multiple document and ask question about it
@@ -53,6 +54,22 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 # 🔨 My Projects
 
 ## 🗣️💻 Large language models
+
+### 💚🤖 Carbon market-focused chatbot
+
+- Developed a cutting-edge web app featuring a **carbon market-focused chatbot** capable of accessing a vast database of URLs and documents for accurate and insightful responses.
+- Equipped the chatbot with **in-depth knowledge of the carbon market**, allowing it to provide comprehensive information and answer complex questions with precision.
+- Leveraged advanced natural language processing and machine learning techniques to create an interactive and **human-like conversational experience** focused on carbon market inquiries.
+- Integrated seamless **access to a database of URLs and documents** related to the carbon market, ensuring the chatbot's ability to retrieve up-to-date and relevant information.
+- Maintains a **long-term memory** to remember past interactions and context, facilitating continuity and personalized responses for users.
+- Seamlessly combines information from various sources within the carbon market database, enabling the chatbot to provide **insightful and accurate answers** to a wide range of carbon market-related queries.
+- Offers a **diverse set of functionalities**, including providing detailed explanations, offering insights and analysis, and addressing specific carbon market questions.
+- Demonstrates exceptional **adaptability and versatility** in meeting users' needs by engaging in interactive and context-aware conversations specific to the carbon market domain.
+- Showcases expertise in leveraging advanced technologies to develop a sophisticated and intelligent chatbot **dedicated to the carbon market**, providing users with valuable insights and information.
+
+https://github.com/MrBounty/Data_portfolio/assets/79221338/6b2a1c40-fce2-4491-83d8-d0c5aa20bb39
+
+<br/><br/>
 
 ### 💬🤖 My chatGPT
 
