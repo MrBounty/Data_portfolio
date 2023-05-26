@@ -57,15 +57,15 @@ Aspires to utilize Large Language Models to create bespoke solutions for busines
 
 ### 💚🤖 Carbon market-focused chatbot
 
-- Developed a cutting-edge web app featuring a **carbon market-focused chatbot** capable of accessing a vast database of URLs and documents for accurate and insightful responses.
-- Equipped the chatbot with **in-depth knowledge of the carbon market**, allowing it to provide comprehensive information and answer complex questions with precision.
-- Leveraged advanced natural language processing and machine learning techniques to create an interactive and **human-like conversational experience** focused on carbon market inquiries.
-- Integrated seamless **access to a database of URLs and documents** related to the carbon market, ensuring the chatbot's ability to retrieve up-to-date and relevant information.
-- Maintains a **long-term memory** to remember past interactions and context, facilitating continuity and personalized responses for users.
-- Seamlessly combines information from various sources within the carbon market database, enabling the chatbot to provide **insightful and accurate answers** to a wide range of carbon market-related queries.
-- Offers a **diverse set of functionalities**, including providing detailed explanations, offering insights and analysis, and addressing specific carbon market questions.
-- Demonstrates exceptional **adaptability and versatility** in meeting users' needs by engaging in interactive and context-aware conversations specific to the carbon market domain.
-- Showcases expertise in leveraging advanced technologies to develop a sophisticated and intelligent chatbot **dedicated to the carbon market**, providing users with valuable insights and information.
+- Developed a **carbon market-focused chatbot with a database** for accurate responses.
+- Equipped the chatbot with **in-depth knowledge of the carbon market** for precise answers.
+- Created a **human-like conversational experience** using advanced natural language processing and machine learning.
+- Integrated **seamless access to a database** of URLs and documents related to the carbon market.
+- Maintains **long-term memory** for personalized responses based on past interactions.
+- **Combines information from various sources** for insightful answers to carbon market queries.
+- Offers **diverse functionalities**, including explanations, insights, and addressing specific questions.
+- Demonstrates exceptional **adaptability and versatility** in interactive conversations.
+- Showcases **expertise in leveraging advanced technologies** for an intelligent chatbot dedicated to the carbon market.
 
 https://github.com/MrBounty/Data_portfolio/assets/79221338/6b2a1c40-fce2-4491-83d8-d0c5aa20bb39
 
@@ -155,9 +155,14 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/aa470075-b6b0-4b1f-87
 ## 🤖🧠 Machine and Deep Learning
 
 ### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
-The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that identifies rice crops in Vietnam.
-
-I created my solution to identify rice crops in Vietnam using deep learning technologies with Keras. Using data solely from the satellite Sentinel 1, my model achieved an **accuracy of 100% and was in the 10 best solution out of 1300 participants**.
+- Developed a solution for the EY Open Science Data Challenge **Level 1** to address UN Sustainable Development Goal 2: Zero Hunger.
+- Utilized **deep learning** technologies with Keras to accurately identify rice crops in Vietnam using satellite data from the Sentinel 1 satellite.
+- Achieved an exceptional **accuracy of 100%** in predicting the presence of rice crops.
+- Spent approximately **30 hours** on model development and an additional 20 hours on optimization and visualization.
+- Implemented a **meticulous workflow** including data selection, transformation, preprocessing, deep learning model design, and hyperparameter tuning.
+- **Successfully applied the trained model** to make predictions and created visualizations to showcase its capabilities.
+- Demonstrated **proficiency in Python** for data science, deep learning, and managing large volumes of data.
+- Contributed to **addressing food security** challenges and supporting sustainable development efforts.
 
 [Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
 
@@ -168,18 +173,24 @@ I created my solution to identify rice crops in Vietnam using deep learning tech
 <br/><br/>
 
 ### 🌾📈 EY data challenges 2023 level 2 - Regression
-The EY Open Science Data Challenge Level 2 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants used radar and optical satellite data to build a model that predict the production of rice crops fields in Vietnam.
-
-I created my solution using machine learning technologies. My model achieved an **accuracy of 64% and was in the 5 best solution out of 1300 participants**
+- Participated in the EY Open Science Data Challenge **Level 2** to address UN Sustainable Development Goal 2: Zero Hunger.
+- Developed a solution using **machine learning techniques** to predict rice crop production in Vietnam using radar and optical satellite data.
+- Achieved an **score of 64%** and ranked among the top 5 solutions out of 1300 participants.
+- Implemented a **meticulous workflow** including data preprocessing, feature engineering, model selection, and hyperparameter tuning.
+- Demonstrated **proficiency in machine learning** technologies for regression tasks in the context of sustainable development.
+- Contributed to **addressing food security** challenges and advancing the UN Sustainable Development Goal of Zero Hunger through an open-source solution.
 
 [TODO] Add code and more information
 
 <br/><br/>
 
 ### 🔢👁️ Digit recognizer - Computer vision
-The Kaggle Digit Recognizer competition is a challenging problem in the field of computer vision and machine learning. The objective of this competition is to develop a model that can accurately recognize handwritten digits from the MNIST dataset, which contains tens of thousands of images of handwritten digits.
-
-For that I built a convolutional neural network model for image classification using the Keras framework with two convolutional layers, max pooling, and dropout layers, followed by two fully connected layers with softmax activation for classification into one of ten possible classes, using the sparse categorical cross-entropy loss function and the Adam optimizer. **And obtain an accuracy of 99.2%.**
+- Developed a **convolutional neural network model** for the Kaggle Digit Recognizer competition.
+- Utilized the **Keras framework** with two convolutional layers, max pooling, and dropout layers.
+- Achieved an outstanding **accuracy of 99.2%** in recognizing handwritten digits from the MNIST dataset.
+- Applied the sparse categorical cross-entropy loss function and the Adam optimizer for model training.
+- Demonstrated **expertise in computer vision** and machine learning for image classification tasks.
+- Contributed to the field by providing an accurate solution to the challenging problem of digit recognition.
 
 [Link](https://github.com/MrBounty/Data_portfolio/tree/main/Digit%20recognizer)  
 [Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-score-0-9864-conv2d-data-augmentation)
@@ -190,9 +201,12 @@ Then used this model to make a simple application.
 <br/><br/>
 
 ### 🏠💰 House prices - Regression
-The House Prices: Advanced Regression Techniques Kaggle competition is a popular machine learning challenge in which participants are tasked with predicting the final sale price of homes in Ames, Iowa, based on a set of features describing various aspects of the properties. The competition dataset contains 79 explanatory variables, including information about the house's size, location, age, and quality, as well as other factors such as the presence of amenities like fireplaces and pools.
-
-For this challenge, I utilized deep learning techniques and a neural network approach using the Keras package in Python to develop a solution for predicting the sale price of houses. **And obtain a Root-Mean-Squared-Error (RMSE) of 0.135.**
+- Participated in the House Prices: Advanced Regression Techniques **Kaggle competition**, focusing on predicting the sale prices of homes in Ames, Iowa.
+- Employed **deep learning techniques** and a neural network approach using the Keras package in Python.
+- Utilized the competition dataset containing 79 explanatory variables, including house size, location, age, quality, and amenities.
+- Achieved an impressive **Root-Mean-Squared-Error (RMSE) of 0.135** in accurately predicting house sale prices.
+- Demonstrated **proficiency in deep learning** and neural network modeling for regression tasks.
+- Contributed to the field of machine learning by providing an accurate solution to the house price prediction challenge.
 
 [Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)  
 [Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/house-pricing-with-keras)
@@ -200,7 +214,12 @@ For this challenge, I utilized deep learning techniques and a neural network app
 <br/><br/>
 
 ### 🚢🔢 Titanic - Binary classification
-In the Titanic and Spaceship Titanic Kaggle challenges, I embarked on an exciting journey to predict binary classifications with an impressive level of accuracy. Utilizing the power of Keras and deep learning techniques, I achieved **remarkable scores of 0.78 and 0.8**, respectively, for the Titanic and Spaceship Titanic datasets. Through meticulous data analysis, feature engineering, and model optimization, I crafted a robust solution that successfully predicted the outcomes in these two distinct scenarios. These challenges allowed me to demonstrate my proficiency in leveraging cutting-edge technologies and my ability to tackle real-world problems with precision and innovation.
+- Participated in the Titanic and Spaceship Titanic **Kaggle challenges**, focusing on predicting binary classifications.
+- Utilized **Keras and deep learning techniques** to achieve impressive **accuracy of 0.78 and 0.8** for the Titanic and Spaceship Titanic datasets, respectively.
+- Conducted meticulous **data analysis, feature engineering, and model optimization** to craft robust solutions.
+- Successfully predicted outcomes in these two distinct scenarios, showcasing the effectiveness of the developed models.
+- Demonstrated proficiency in leveraging cutting-edge technologies and innovative approaches to tackle real-world problems.
+- Highlighted skills in **data analysis, feature engineering, and deep learning** for accurate binary classification predictions.
 
 [Spaceship titanic Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-around-0-8-accuracy)
 
