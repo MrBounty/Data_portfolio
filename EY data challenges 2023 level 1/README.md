@@ -1,5 +1,4 @@
 # Introduction
-**Note: I did not upload my code yet because the challenge is not finish**
 
 The EY Open Science Data Challenge Level 1 aims to create open-source solutions to address UN Sustainable Development Goal 2: Zero Hunger. Participants will use radar and optical satellite data to build a model that identifies rice crops in Vietnam. Vietnam is a leading rice producer and is highly vulnerable to climate change.   
 
