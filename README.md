@@ -180,7 +180,7 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/aa470075-b6b0-4b1f-87
 - Demonstrated **proficiency in machine learning** technologies for regression tasks in the context of sustainable development.
 - Contributed to **addressing food security** challenges and advancing the UN Sustainable Development Goal of Zero Hunger through an open-source solution.
 
-[TODO] Add code and more information
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%202)
 
 <br/><br/>
 
