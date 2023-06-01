@@ -269,6 +269,7 @@ Then used this model to make a simple application.
 | Using MongoDB with Python | [TODO] | MongoDB | 2023 |
 | MongoDB - The Complete Developer's Guide 2023 | [Link](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) | Udemy | 2023 |
 | Project Management Fundamentals | [Link](https://www.udemy.com/course/project-management-fundamentals-gantt/) | Udemy | 2023 |
+| Statistics for Data Science and Business Analysis | [Link](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/) | Udemy | 2023 |
 | Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [Link](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/) | Udemy | 2022 |
 | Python for Everybody Specialization | [Link](https://www.coursera.org/specializations/python) | Coursera | 2021 |
 
