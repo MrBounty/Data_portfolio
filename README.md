@@ -264,6 +264,7 @@ Then used this model to make a simple application.
 | Deep Learning with Python and Keras | [Link](https://www.udemy.com/course/deep-learning-with-python-and-keras/) | Udemy | 2023 |
 | The Complete machine Learning Course with Python | [Link](https://www.udemy.com/course/machine-learning-course-with-python/) | Udemy | 2023 |
 | Deep Learning A-Z: Hands-On Artificial Neural Networks | [Link](https://www.udemy.com/course/deeplearning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROWMTA-A&utm_content=deal4584&utm_term=_._ag_80979681514_._ad_533999950009_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_2442_._pd__._&matchtype=&gclid=CjwKCAjwpayjBhAnEiwA-7ena5gF47oDBqJ5YODKn9syj9rR1Xahai9Eb_sIRrmuP40aOcLz3OsKNhoC5PoQAvD_BwE) | Udemy | 2023 |
+| Python GUI Development with PyQt6 & Qt Designer | [Link](https://www.udemy.com/course/python-gui-development-with-pyqt6/?referral=&utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_2276_._pd__._&matchtype=&gclid=CjwKCAjwg-GjBhBnEiwAMUvNW6dNPryihoOVcPNWcN7_6I8-t8GMx5EB4CCjtV7Y8yk7mCsySu2_thoC-5oQAvD_BwE) | Udemy | 2023 |
 | Machine Learning A-Z™: Python & R in Data Science [2022] | [Link](https://www.udemy.com/course/machinelearning/) | Udemy | 2023 |
 | The Complete SQL Bootcamp | [Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | Udemy | 2023 |
 | Using MongoDB with Python | [TODO] | MongoDB | 2023 |
