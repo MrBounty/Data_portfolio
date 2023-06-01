@@ -250,9 +250,10 @@ Then used this model to make a simple application.
 # 🏆 Certifications
 | Name  | Link | Issuing organization | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| Professional Scrum Master I Certification (PSM 1) | [Link](https://www.scrum.org/assessments/professional-scrum-master-i-certification) | Scrum.org | 2023 |
 | Microsoft Azure AI Engineer Associate | [Link](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/) | Microsoft | In progress |
+| Professional Scrum Master I Certification (PSM 1) | [Link](https://www.scrum.org/assessments/professional-scrum-master-i-certification) | Scrum.org | 2023 |
 | Microsoft Azure AI Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/) | Microsoft | 2023 |
+| EY Artificial intelligence - Bronze (2023) | [Link](https://www.credly.com/badges/a7151f1c-7e6e-48ba-a9cb-5060ca5a1708) | EY | 2023 |
 | Microsoft Power Platform Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) | Microsoft | 2022 |
 | Microsoft Azure Fundamentals | [Link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) | Microsoft | 2022 |
 | Google Data Analytics Specialization | [Link](https://www.coursera.org/professional-certificates/google-data-analytics) | Google | 2022 |
