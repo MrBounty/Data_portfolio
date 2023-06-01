@@ -271,7 +271,7 @@ Then used this model to make a simple application.
 | Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [Link](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/) | Udemy | 2022 |
 | Python for Everybody Specialization | [Link](https://www.coursera.org/specializations/python) | Coursera | 2021 |
 
-# 🎓 Books
+# 📖 Books
 | Name  | Link |
 | ------------- | ------------- |
 | Deep Learning with Python | [Link](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |
