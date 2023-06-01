@@ -267,6 +267,7 @@ Then used this model to make a simple application.
 | Machine Learning A-Z™: Python & R in Data Science [2022] | [Link](https://www.udemy.com/course/machinelearning/) | Udemy | 2023 |
 | The Complete SQL Bootcamp | [Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | Udemy | 2023 |
 | Using MongoDB with Python | [TODO] | MongoDB | 2023 |
+| MongoDB - The Complete Developer's Guide 2023 | [Link](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) | Udemy | 2023 |
 | Project Management Fundamentals | [Link](https://www.udemy.com/course/project-management-fundamentals-gantt/) | Udemy | 2023 |
 | Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [Link](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/) | Udemy | 2022 |
 | Python for Everybody Specialization | [Link](https://www.coursera.org/specializations/python) | Coursera | 2021 |
