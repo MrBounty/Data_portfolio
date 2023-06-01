@@ -270,3 +270,10 @@ Then used this model to make a simple application.
 | Project Management Fundamentals | [Link](https://www.udemy.com/course/project-management-fundamentals-gantt/) | Udemy | 2023 |
 | Microsoft Power BI Certification: DA-100, PL-300 Exam Prep | [Link](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/) | Udemy | 2022 |
 | Python for Everybody Specialization | [Link](https://www.coursera.org/specializations/python) | Coursera | 2021 |
+
+# 🎓 Books
+| Name  | Link |
+| ------------- | ------------- |
+| Deep Learning with Python | [Link](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |
+| Storytelling with Data | [Link](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2) |
+| Deep Learning | [Link](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B08FH8Y533/ref=sr_1_2?crid=X4HT24HFTNWR&keywords=Deep+learning&qid=1685619148&s=digital-text&sprefix=deep+learning%2Cdigital-text%2C187&sr=1-2) |
