@@ -26,29 +26,33 @@
 ---
 
 # 📝 About me
-👋 **Introduction:**
-Passionate data enthusiast and AI aficionado with a background in engineering and a love for numbers and computer science.
-
-🎓 **Background and Education:**
-Master's degree in Thermal and Energy Engineering.
-Explored the world of data, programming, and AI during internships, leading to a profound fascination.
+👋 Hello! I'm an AI enthusiast and aspiring AI engineer with a passion for emerging technologies and data-driven solutions. Currently, I work as a Consultant in Emerging Technologies and Data at EY, where I have been involved in AI projects and gained valuable experience in business, project management, storytelling, and presentation skills.
 
 💼 **Professional Experience:**
-Currently a consultant in Emerging Technologies and Data at EY, leveraging expertise in Python, Machine Learning, Deep Learning, and generative AI.
-Previous internships in university labs, gaining valuable insights but ultimately finding the PhD path not the right fit.
+- Consultant in Emerging Technologies and Data at EY, specializing in AI projects.
+- Completed two internships in university laboratories, expanding my knowledge in the field.
 
-💡 **Skills and Expertise:**
-Proficient in Python, including major packages for data manipulation and analysis.
-Extensive knowledge in Machine and Deep Learning, as well as generative AI and Large Language Models.
-Skilled in SQL, MongoDB, Cloud Computing, Excel, MatLab, Power Platform, Math & Statistics, and Data Visualization.
+💪 **Skills and Expertise:**
+- Proficient in Python, machine learning, deep learning, NLP, and Large Language Models.
+- Enthusiastic about programming, problem-solving, and constantly learning about emerging technologies.
+- Good knowledge of SQL, MongoDB, and software development.
 
-🌟 **Personal Interests and Motivations:**
-Passionate about coding, Artificial Intelligence, problem-solving, and diving into new technologies like Generative AI.
-Enjoys engaging in sports such as biking, running, camping, and swimming.
-Finds joy in cooking and gaining knowledge through documentary watching.
+🎓 **Education and Certifications:**
+- Master's degree in Engineering.
+- Multiple certifications in section below.
 
-🚀 **Future Goals:**
-Aspires to utilize Large Language Models to create bespoke solutions for businesses, automating complex tasks and unlocking new possibilities.
+🌟 **Unique Selling Proposition:**
+- I'm a dedicated AI aficionado, known for my hard work, intelligence, and autodidactic nature.
+- Thriving in high-stress environments, I maintain a high level of productivity while being a friendly and approachable team member.
+- I have developed a strong business acumen, which complements my technical skills.
+
+💡 **Personal Interests:**
+- I enjoy engaging in sports such as running, biking, swimming, and hiking, which help me maintain a balanced and active lifestyle.
+- Food and cooking are among my passions, and I love exploring new culinary experiences.
+- As a lifelong learner, I am always excited to delve into new subjects and broaden my knowledge.
+- I find joy in programming and creating tools that enhance my everyday life, while also being a fan of jazz music.
+
+🎯 My goal is to become an **AI engineer**, leveraging my skills and expertise to contribute to the development of innovative AI solutions.
 
 ---
 
