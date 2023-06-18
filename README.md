@@ -34,7 +34,7 @@ Master's degree in Thermal and Energy Engineering.
 Explored the world of data, programming, and AI during internships, leading to a profound fascination.
 
 💼 **Professional Experience:**
-Currently a consultant in Data & Analytics at EY, leveraging expertise in Python, Machine Learning, Deep Learning, and generative AI.
+Currently a consultant in Emerging Technologies and Data at EY, leveraging expertise in Python, Machine Learning, Deep Learning, and generative AI.
 Previous internships in university labs, gaining valuable insights but ultimately finding the PhD path not the right fit.
 
 💡 **Skills and Expertise:**
