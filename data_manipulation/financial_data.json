@@ -1,0 +1,702 @@
+[
+    {
+        "date": "2019-09-24",
+        "transaction_id": "K56DK2C29O",
+        "amount": 223.36,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2020-06-15",
+        "transaction_id": "J8G7MBAETY",
+        "amount": 57.83,
+        "category": "utilities",
+        "description": "Refund"
+    },
+    {
+        "date": "2021-06-11",
+        "transaction_id": "VQCVEQ9KQT",
+        "amount": -797.0,
+        "category": "shopping",
+        "description": "Deposit"
+    },
+    {
+        "date": "2022-11-01",
+        "transaction_id": "P6JVA9WA1S",
+        "amount": -901.45,
+        "category": "travel",
+        "description": "Purchase"
+    },
+    {
+        "date": "2015-03-26",
+        "transaction_id": "Q7U1NJVKTC",
+        "amount": 566.07,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2014-05-06",
+        "transaction_id": "B1Y7QZYWMA",
+        "amount": 998.99,
+        "category": "food",
+        "description": "Deposit"
+    },
+    {
+        "date": "2022-01-05",
+        "transaction_id": "AI0A9M5TEM",
+        "amount": -403.9,
+        "category": "utilities",
+        "description": "Refund"
+    },
+    {
+        "date": "2019-01-11",
+        "transaction_id": "LYFO3YHAU3",
+        "amount": 444.82,
+        "category": "food",
+        "description": "Purchase"
+    },
+    {
+        "date": "2014-11-02",
+        "transaction_id": "8ODZX9ITAA",
+        "amount": 601.75,
+        "category": "food",
+        "description": "Refund"
+    },
+    {
+        "date": "2010-03-07",
+        "transaction_id": "8WVN5UN1DG",
+        "amount": -960.78,
+        "category": "entertainment",
+        "description": "Payment"
+    },
+    {
+        "date": "2018-08-19",
+        "transaction_id": "DEYNT89OGO",
+        "amount": 156.05,
+        "category": "shopping",
+        "description": "Expense"
+    },
+    {
+        "date": "2018-08-08",
+        "transaction_id": "RSL6SUCCET",
+        "amount": -194.6,
+        "category": "shopping",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-12-10",
+        "transaction_id": "9TX0KL7R6V",
+        "amount": 834.92,
+        "category": "entertainment",
+        "description": "Expense"
+    },
+    {
+        "date": "2017-08-06",
+        "transaction_id": "YHRIZQXAU8",
+        "amount": 110.59,
+        "category": "utilities",
+        "description": "Expense"
+    },
+    {
+        "date": "2012-10-09",
+        "transaction_id": "05H52G3662",
+        "amount": -983.1,
+        "category": "rent",
+        "description": "Expense"
+    },
+    {
+        "date": "2012-08-18",
+        "transaction_id": "GBZFVHVM5F",
+        "amount": -452.88,
+        "category": "food",
+        "description": "Purchase"
+    },
+    {
+        "date": "2015-01-21",
+        "transaction_id": "5GWMSM4SO2",
+        "amount": -799.54,
+        "category": "food",
+        "description": "Refund"
+    },
+    {
+        "date": "2023-01-03",
+        "transaction_id": "VSCNHLYLUU",
+        "amount": 637.14,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2018-06-02",
+        "transaction_id": "RWZXFK2FOD",
+        "amount": -717.82,
+        "category": "rent",
+        "description": "Expense"
+    },
+    {
+        "date": "2019-03-07",
+        "transaction_id": "RRGFEKQ9C0",
+        "amount": 654.18,
+        "category": "food",
+        "description": "Payment"
+    },
+    {
+        "date": "2010-12-14",
+        "transaction_id": "G71GTRK747",
+        "amount": -131.34,
+        "category": "entertainment",
+        "description": "Expense"
+    },
+    {
+        "date": "2016-08-04",
+        "transaction_id": "XUSP8003A5",
+        "amount": 405.98,
+        "category": "rent",
+        "description": "Payment"
+    },
+    {
+        "date": "2012-10-09",
+        "transaction_id": "6AS7JF4V47",
+        "amount": -897.98,
+        "category": "travel",
+        "description": "Purchase"
+    },
+    {
+        "date": "2023-05-13",
+        "transaction_id": "EHL9HBGDAP",
+        "amount": 763.89,
+        "category": "shopping",
+        "description": "Expense"
+    },
+    {
+        "date": "2015-03-13",
+        "transaction_id": "S5NHMK01OZ",
+        "amount": 649.97,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2014-01-19",
+        "transaction_id": "92CG1LOVE1",
+        "amount": 838.72,
+        "category": "food",
+        "description": "Refund"
+    },
+    {
+        "date": "2020-06-12",
+        "transaction_id": "T6CDUVH0AN",
+        "amount": 123.63,
+        "category": "shopping",
+        "description": "Deposit"
+    },
+    {
+        "date": "2022-06-08",
+        "transaction_id": "XQM8TSLDN1",
+        "amount": 822.45,
+        "category": "travel",
+        "description": "Refund"
+    },
+    {
+        "date": "2016-12-22",
+        "transaction_id": "VKQB7R0LHR",
+        "amount": -582.67,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2016-09-12",
+        "transaction_id": "84IGVG566L",
+        "amount": 928.59,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2010-09-10",
+        "transaction_id": "FRMFA0EWK7",
+        "amount": 615.19,
+        "category": "entertainment",
+        "description": "Expense"
+    },
+    {
+        "date": "2010-04-19",
+        "transaction_id": "PXODFLR626",
+        "amount": 750.31,
+        "category": "utilities",
+        "description": "Purchase"
+    },
+    {
+        "date": "2017-05-17",
+        "transaction_id": "MSU40SYVNP",
+        "amount": -22.46,
+        "category": "shopping",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-09-20",
+        "transaction_id": "9KB60FUGEE",
+        "amount": 746.38,
+        "category": "shopping",
+        "description": "Payment"
+    },
+    {
+        "date": "2022-01-09",
+        "transaction_id": "20BTZ9RJSE",
+        "amount": 856.12,
+        "category": "entertainment",
+        "description": "Purchase"
+    },
+    {
+        "date": "2014-02-26",
+        "transaction_id": "5SWSYLZN1B",
+        "amount": 406.8,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2020-08-27",
+        "transaction_id": "8GRFJ78S69",
+        "amount": -738.79,
+        "category": "shopping",
+        "description": "Purchase"
+    },
+    {
+        "date": "2011-10-24",
+        "transaction_id": "QG58IIJIL8",
+        "amount": -108.64,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2021-10-13",
+        "transaction_id": "TH04WGU0F0",
+        "amount": 98.44,
+        "category": "food",
+        "description": "Expense"
+    },
+    {
+        "date": "2018-04-12",
+        "transaction_id": "YVSMMSJVLK",
+        "amount": -741.91,
+        "category": "food",
+        "description": "Purchase"
+    },
+    {
+        "date": "2022-09-06",
+        "transaction_id": "8PXF8PANN8",
+        "amount": -828.67,
+        "category": "utilities",
+        "description": "Purchase"
+    },
+    {
+        "date": "2013-05-25",
+        "transaction_id": "C9DZEYSOEI",
+        "amount": 36.82,
+        "category": "shopping",
+        "description": "Refund"
+    },
+    {
+        "date": "2016-07-28",
+        "transaction_id": "WOPXZ0X4A0",
+        "amount": -370.32,
+        "category": "rent",
+        "description": "Deposit"
+    },
+    {
+        "date": "2017-05-10",
+        "transaction_id": "MGKKDQ31LC",
+        "amount": 33.52,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2022-10-28",
+        "transaction_id": "JV10G0N01B",
+        "amount": 142.18,
+        "category": "utilities",
+        "description": "Purchase"
+    },
+    {
+        "date": "2015-05-13",
+        "transaction_id": "9FIO2U1Q47",
+        "amount": 206.52,
+        "category": "travel",
+        "description": "Payment"
+    },
+    {
+        "date": "2015-12-09",
+        "transaction_id": "KS2UJW476M",
+        "amount": 533.2,
+        "category": "food",
+        "description": "Purchase"
+    },
+    {
+        "date": "2023-07-27",
+        "transaction_id": "CCKOCFTM3V",
+        "amount": -115.5,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2021-05-24",
+        "transaction_id": "6OXQGFJ2JL",
+        "amount": -76.45,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2012-12-21",
+        "transaction_id": "IZQ4SU79CD",
+        "amount": 961.36,
+        "category": "entertainment",
+        "description": "Deposit"
+    },
+    {
+        "date": "2022-03-14",
+        "transaction_id": "J0L95MJ29J",
+        "amount": 789.29,
+        "category": "travel",
+        "description": "Purchase"
+    },
+    {
+        "date": "2010-06-01",
+        "transaction_id": "JASPHK3OLD",
+        "amount": -337.4,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2015-12-15",
+        "transaction_id": "K3G7SAY59D",
+        "amount": 294.86,
+        "category": "shopping",
+        "description": "Expense"
+    },
+    {
+        "date": "2021-02-20",
+        "transaction_id": "RD2VS9Y98L",
+        "amount": 7.28,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2023-08-10",
+        "transaction_id": "BX92W04688",
+        "amount": 815.89,
+        "category": "travel",
+        "description": "Refund"
+    },
+    {
+        "date": "2016-03-01",
+        "transaction_id": "QQF9A1D6ZK",
+        "amount": -721.88,
+        "category": "utilities",
+        "description": "Deposit"
+    },
+    {
+        "date": "2020-01-25",
+        "transaction_id": "0HJGWFAQH9",
+        "amount": -32.45,
+        "category": "utilities",
+        "description": "Expense"
+    },
+    {
+        "date": "2011-06-20",
+        "transaction_id": "5633XET9WN",
+        "amount": 958.44,
+        "category": "travel",
+        "description": "Expense"
+    },
+    {
+        "date": "2019-08-01",
+        "transaction_id": "VPIS7R97BO",
+        "amount": -74.16,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-07-13",
+        "transaction_id": "8XSXASM4KS",
+        "amount": -106.71,
+        "category": "rent",
+        "description": "Deposit"
+    },
+    {
+        "date": "2016-01-10",
+        "transaction_id": "NA7ABU2GPH",
+        "amount": 41.56,
+        "category": "shopping",
+        "description": "Deposit"
+    },
+    {
+        "date": "2023-08-28",
+        "transaction_id": "5ZZ54Q231P",
+        "amount": 879.07,
+        "category": "utilities",
+        "description": "Purchase"
+    },
+    {
+        "date": "2022-05-27",
+        "transaction_id": "VLBMWXSUOX",
+        "amount": -765.6,
+        "category": "travel",
+        "description": "Refund"
+    },
+    {
+        "date": "2016-03-03",
+        "transaction_id": "47TO8IQ2S3",
+        "amount": -363.42,
+        "category": "food",
+        "description": "Expense"
+    },
+    {
+        "date": "2023-11-01",
+        "transaction_id": "XDTVN7E244",
+        "amount": -123.35,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2017-12-14",
+        "transaction_id": "O8J5QD2DJV",
+        "amount": -459.18,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2017-08-23",
+        "transaction_id": "COKJIHBNPF",
+        "amount": -942.81,
+        "category": "shopping",
+        "description": "Purchase"
+    },
+    {
+        "date": "2022-10-07",
+        "transaction_id": "NU6EURJBW2",
+        "amount": -286.23,
+        "category": "shopping",
+        "description": "Payment"
+    },
+    {
+        "date": "2016-06-01",
+        "transaction_id": "GIFX17E4JK",
+        "amount": 740.38,
+        "category": "shopping",
+        "description": "Payment"
+    },
+    {
+        "date": "2013-03-20",
+        "transaction_id": "47Y9PF0RIU",
+        "amount": 317.87,
+        "category": "rent",
+        "description": "Purchase"
+    },
+    {
+        "date": "2014-02-19",
+        "transaction_id": "DOVMXJM6PS",
+        "amount": -926.89,
+        "category": "entertainment",
+        "description": "Expense"
+    },
+    {
+        "date": "2021-12-23",
+        "transaction_id": "G8BKA6ECB1",
+        "amount": -987.49,
+        "category": "shopping",
+        "description": "Deposit"
+    },
+    {
+        "date": "2012-02-07",
+        "transaction_id": "NNNGKRAOLW",
+        "amount": -685.61,
+        "category": "shopping",
+        "description": "Payment"
+    },
+    {
+        "date": "2010-10-25",
+        "transaction_id": "X2GG4701ZM",
+        "amount": 130.22,
+        "category": "entertainment",
+        "description": "Payment"
+    },
+    {
+        "date": "2020-03-27",
+        "transaction_id": "ETA149LEPV",
+        "amount": -728.26,
+        "category": "entertainment",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-01-04",
+        "transaction_id": "4ZGG0F2698",
+        "amount": 537.14,
+        "category": "travel",
+        "description": "Deposit"
+    },
+    {
+        "date": "2013-12-17",
+        "transaction_id": "L3G4C3OYRR",
+        "amount": -353.84,
+        "category": "food",
+        "description": "Payment"
+    },
+    {
+        "date": "2020-09-20",
+        "transaction_id": "NKUZHUDFOA",
+        "amount": -646.32,
+        "category": "food",
+        "description": "Refund"
+    },
+    {
+        "date": "2010-03-12",
+        "transaction_id": "0XS8H8TKBA",
+        "amount": 346.22,
+        "category": "utilities",
+        "description": "Expense"
+    },
+    {
+        "date": "2023-09-03",
+        "transaction_id": "6M5POPHCA4",
+        "amount": 950.96,
+        "category": "food",
+        "description": "Expense"
+    },
+    {
+        "date": "2017-08-27",
+        "transaction_id": "FL4ENRF2VJ",
+        "amount": 152.79,
+        "category": "travel",
+        "description": "Purchase"
+    },
+    {
+        "date": "2023-04-05",
+        "transaction_id": "7GTG8QHG0E",
+        "amount": 892.92,
+        "category": "travel",
+        "description": "Expense"
+    },
+    {
+        "date": "2010-11-19",
+        "transaction_id": "C0U3VFLTM4",
+        "amount": 780.09,
+        "category": "rent",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-01-15",
+        "transaction_id": "ME3K1L87T6",
+        "amount": -403.36,
+        "category": "travel",
+        "description": "Refund"
+    },
+    {
+        "date": "2017-02-16",
+        "transaction_id": "WOQM890CD3",
+        "amount": 944.36,
+        "category": "travel",
+        "description": "Payment"
+    },
+    {
+        "date": "2011-07-15",
+        "transaction_id": "NNQDAH34FN",
+        "amount": -814.81,
+        "category": "entertainment",
+        "description": "Expense"
+    },
+    {
+        "date": "2015-10-14",
+        "transaction_id": "LK533S9LRE",
+        "amount": -736.18,
+        "category": "utilities",
+        "description": "Payment"
+    },
+    {
+        "date": "2011-04-13",
+        "transaction_id": "KJC9SYMLH4",
+        "amount": -998.47,
+        "category": "travel",
+        "description": "Purchase"
+    },
+    {
+        "date": "2014-08-12",
+        "transaction_id": "D8BWF5ZX93",
+        "amount": 204.56,
+        "category": "entertainment",
+        "description": "Refund"
+    },
+    {
+        "date": "2014-02-24",
+        "transaction_id": "7QPVIX1IWA",
+        "amount": 524.02,
+        "category": "food",
+        "description": "Deposit"
+    },
+    {
+        "date": "2014-06-27",
+        "transaction_id": "O0N9LSQ8G2",
+        "amount": 337.95,
+        "category": "food",
+        "description": "Expense"
+    },
+    {
+        "date": "2018-05-25",
+        "transaction_id": "L9COH86J16",
+        "amount": -211.34,
+        "category": "utilities",
+        "description": "Expense"
+    },
+    {
+        "date": "2011-04-07",
+        "transaction_id": "YJ3C8NO2YD",
+        "amount": 975.78,
+        "category": "food",
+        "description": "Deposit"
+    },
+    {
+        "date": "2021-03-18",
+        "transaction_id": "UY3QKRZG7K",
+        "amount": -909.02,
+        "category": "food",
+        "description": "Expense"
+    },
+    {
+        "date": "2016-09-13",
+        "transaction_id": "UKIUG48O1M",
+        "amount": 671.75,
+        "category": "entertainment",
+        "description": "Purchase"
+    },
+    {
+        "date": "2016-01-02",
+        "transaction_id": "GTDM1T4USW",
+        "amount": -100.53,
+        "category": "rent",
+        "description": "Payment"
+    },
+    {
+        "date": "2013-12-08",
+        "transaction_id": "BM47O1435V",
+        "amount": 497.79,
+        "category": "shopping",
+        "description": "Purchase"
+    },
+    {
+        "date": "2023-05-02",
+        "transaction_id": "1N8VAWV4AQ",
+        "amount": 97.03,
+        "category": "utilities",
+        "description": "Refund"
+    },
+    {
+        "date": "2018-04-26",
+        "transaction_id": "IPDGJPIT41",
+        "amount": -578.77,
+        "category": "travel",
+        "description": "Refund"
+    },
+    {
+        "date": "2019-03-07",
+        "transaction_id": "AVZIIUD14R",
+        "amount": 952.18,
+        "category": "utilities",
+        "description": "Payment"
+    }
+]
