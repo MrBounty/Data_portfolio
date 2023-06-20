@@ -236,7 +236,16 @@ Then used this model to make a simple application.
 
 ### 🧹📊 Data Cleaning and Preprocessing
 
-[TODO] Add description and code
+- The notebook **imports financial data** from a JSON file and a CSV file into separate pandas DataFrames.
+- The CSV **columns are renamed** to match the JSON file's column names for consistency.
+- The description column in the CSV file is **capitalized** to match the JSON file's format.
+- The two DataFrames are **concatenated** into a single DataFrame called global_df.
+- The date column in global_df is **converted to a datetime object**.
+- **Duplicate dates** in the global_df DataFrame are identified.
+- Rows with a **specific date** (e.g., "2012-10-09") are extracted from the global_df.
+- The global_df DataFrame is **split into two DataFrames**: positive_df containing rows with positive amounts and negative_df containing rows with negative amounts.
+
+You can find the code here: [Code](https://github.com/MrBounty/Data_portfolio/tree/main/data_manipulation)
 
 <br/><br/>
 
