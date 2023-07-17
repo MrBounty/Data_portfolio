@@ -5,6 +5,9 @@ The EY Open Science Data Challenge Level 1 aims to create open-source solutions 
 
 The challenge is scalable and has the potential to transform global rice production. The challenge requires math and coding skills and completing it will improve skills in Python for data science, machine learning, and managing large volumes of data. Participants will predict the presence of rice crops in a specific province of Vietnam using satellite data, with opportunities for improvement including choice of data and dataset, data preprocessing, model design and hyperparameter tuning. The output will be a rice crop classification model that can prioritize actions to ensure food security.
 
+[Winners](https://www.ey.com/en_gl/news/2023/06/ey-2023-open-science-data-challenge-winners-help-solve-world-hunger-through-ai-models)  
+[Challenge](https://challenge.ey.com/)
+
 # My solution
 I created my solution to identify rice crops in Vietnam using deep learning technologies with Keras. Using data solely from the satellite Sentinel 1, my model achieved an **accuracy of 100**%. It took me around 30 hours to get to 100%, but I also spend around 20 hours making optimization and visualization.  
 
