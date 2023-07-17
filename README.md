@@ -1,4 +1,4 @@
-**NOTE: Portfolio in progress**
+**NOTE: Portfolio in progress** I need to add some projects that I already did and finish a big one. The big one regroup all my skills (Data scrapping, cleaning, preparation, model selection, training, evaluation, cloud deployment and UI interface)
 
 # 🗓️ Agenda
 * About me
