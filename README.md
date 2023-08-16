@@ -1,4 +1,4 @@
-**NOTE: Portfolio in progress** I need to add some projects that I already did and finish a big one. The big one regroup all my skills (Data scrapping, cleaning, preparation, model selection, training, evaluation, cloud deployment and UI interface)
+**NOTE: Portfolio in progress**
 
 # 🗓️ Agenda
 * About me
@@ -298,3 +298,4 @@ You can find the code here: [Code](https://github.com/MrBounty/Data_portfolio/tr
 | Deep Learning with Python | [Link](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) |
 | Storytelling with Data | [Link](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2) |
 | Deep Learning | [Link](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B08FH8Y533/ref=sr_1_2?crid=X4HT24HFTNWR&keywords=Deep+learning&qid=1685619148&s=digital-text&sprefix=deep+learning%2Cdigital-text%2C187&sr=1-2) |
+| Generative Deep Learning | [Link](https://www.amazon.fr/Generative-Deep-Learning-Teaching-Machines/dp/1098134184/ref=asc_df_1098134184/?tag=googshopde-21&linkCode=df0&hvadid=604420930791&hvpos=&hvnetw=g&hvrand=14919689414982769073&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1004363&hvtargid=pla-1852750701094&psc=1&th=1&psc=1) |
