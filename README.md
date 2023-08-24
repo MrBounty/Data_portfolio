@@ -26,7 +26,7 @@
 ---
 
 # 📝 About me
-👋 Hello! I'm an AI enthusiast and aspiring AI engineer with a passion for deep learning, emerging technologies and data-driven solutions. Currently, I work as a Consultant in Data & Analytics and Emerging Technologies at EY Luxembourg, where I have been involved in AI projects and gained valuable experience in business, project management, storytelling, and presentation skills.
+👋 Hello! I'm an AI enthusiast and aspiring Data Scientist with a passion for deep learning, emerging technologies and data-driven solutions. Currently, I work as a Consultant in Data & Analytics and Emerging Technologies at EY Luxembourg, where I have been involved in AI projects and gained valuable experience in business, project management, storytelling, and presentation skills.
 
 💼 **Professional Experience:**
 - Consultant in Data & Analytics and Emerging Technologies at EY, specializing in AI projects.
