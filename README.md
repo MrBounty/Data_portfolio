@@ -1,7 +1,13 @@
-**NOTE: Portfolio in progress**
-
 # 🗓️ Agenda
 * About me
+* My diploma
+* Projects - Data Science
+  - **EY data challenges 2023 level 1** - Time series & Binary classification
+  - **EY data challenges 2023 level 2** - Regression
+  - **Sentiment Analysis Model** - Natural Language Processing
+  - **Digit recognizer** - Computer vision
+  - **House prices** - Regression
+  - **Titanic** - Binary classification
 * My Projects - Large language models
   - **Carbon market-focused chatbot** - A chatbot with a database of documents and url to ask question about the carbon market
   - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
@@ -9,12 +15,6 @@
   - **Document sumarizer and Q&A** - Summarize one or multiple document and ask question about it
   - **Meeting minutes generator** - Create a structured meeting minutes in seconds
   - **Translator** - Translate any text
-* Projects - Data Science
-  - **EY data challenges 2023 level 1** - Time series & Binary classification
-  - **EY data challenges 2023 level 2** - Regression
-  - **Digit recognizer** - Computer vision
-  - **House prices** - Regression
-  - **Titanic** - Binary classification
 * Projects - Data manipulation
   - **Data Cleaning and Preprocessing** - Automated pipeline that efficiently cleans and preprocesses raw data
   - **Automated Data Visualization** - Automatically generates visually appealing and insightful charts and graphs from datasets
@@ -26,20 +26,21 @@
 ---
 
 # 📝 About me
-👋 Hello! I'm an AI enthusiast and aspiring AI engineer with a passion for emerging technologies and data-driven solutions. Currently, I work as a Consultant in Emerging Technologies and Data at EY, where I have been involved in AI projects and gained valuable experience in business, project management, storytelling, and presentation skills.
+👋 Hello! I'm an AI enthusiast and aspiring AI engineer with a passion for deep learning, emerging technologies and data-driven solutions. Currently, I work as a Consultant in Data & Analytics and Emerging Technologies at EY Luxembourg, where I have been involved in AI projects and gained valuable experience in business, project management, storytelling, and presentation skills.
 
 💼 **Professional Experience:**
-- Consultant in Emerging Technologies and Data at EY, specializing in AI projects.
+- Consultant in Data & Analytics and Emerging Technologies at EY, specializing in AI projects.
 - Completed two internships in university laboratories, expanding my knowledge in the field.
 
 💪 **Skills and Expertise:**
-- Proficient in Python, machine learning, deep learning, NLP, and Large Language Models.
-- Enthusiastic about programming, problem-solving, and constantly learning about emerging technologies.
-- Good knowledge of SQL, MongoDB, and software development.
+- Proficient in Python, machine learning, deep learning, data manipulation, NLP, and Large Language Models.
+- Enthusiastic about programming, problem-solving, and constantly learning.
+- Good knowledge of SQL, MongoDB, model deployement and software development.
 
 🎓 **Education and Certifications:**
-- Master's degree in Engineering.
+- Master's degree in Engineering, more information below.
 - Multiple certifications in section below.
+- Multiple books in section below
 
 🌟 **Unique Selling Proposition:**
 - I'm a dedicated AI aficionado, known for my hard work, intelligence, and autodidactic nature.
@@ -52,11 +53,113 @@
 - As a lifelong learner, I am always excited to delve into new subjects and broaden my knowledge.
 - I find joy in programming and creating tools that enhance my everyday life, while also being a fan of jazz music.
 
-🎯 My goal is to become an **AI engineer**, leveraging my skills and expertise to contribute to the development of innovative AI solutions.
+🎯 My ultimate goal is to become an **Deep Learning Researcher**, to be actively involved in discovering new techniques, models, or applications in the field of deep learning. But for now I am focus on becoming a **Data Scientist**.
+
+---
+
+# 🎓 My diploma
+🎓🔥 **Master's Degree in Engineering Thermal and Energy**
+- **Programming Skills**: Gained hands-on experience in programming with MatLab, developing algorithms and solving complex engineering problems.
+- **Mathematical Foundation**: Mastered advanced concepts in calculus, linear algebra, and statistics, forming a robust mathematical foundation essential for data science.
+- **Simulation Expertise**: Conducted computer simulations for fluid and thermal dynamics, utilizing numerical methods and computational techniques.
+- **Data Analysis & Modeling**: Applied statistical methods to analyze data, model thermal systems, and optimize energy performance.
+- **Interdisciplinary Knowledge**: Bridged the gap between traditional engineering disciplines and data science, leveraging analytical skills to drive insights in the thermal and energy field.
+- **Contribution to Field**: Utilized data science techniques in the context of thermal and energy engineering, contributing to innovative solutions and sustainable energy practices.
+
+While my Master's degree in Engineering Thermal and Energy may not be the most common pathway into data science, my strong foundation in mathematics, programming, and simulations, coupled with my relentless self-driven learning and side projects, has not only compensated for my lack of a traditional computer science diploma but fostered a unique perspective and skill set that I'm confident positions me as a valuable asset in the field.
 
 ---
 
 # 🔨 My Projects
+
+The projects presented here represent just a **small fraction of the many I've completed**, showcasing a broad spectrum of skills vital for Data Science. My passion for exploring new skills, technologies, and packages often leads me to engage in smaller projects that might not make it to my portfolio or GitHub page, as they are personal explorations rather than formal contributions, and I prefer to focus on learning and discovery rather than extensive documentation.
+
+## 🤖🧠 Machine and Deep Learning
+
+### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
+- Developed a solution for the EY Open Science Data Challenge **Level 1** to address UN Sustainable Development Goal 2: Zero Hunger.
+- Utilized **deep learning** technologies with Keras to accurately identify rice crops in Vietnam using satellite data from the Sentinel 1 satellite.
+- Achieved an exceptional **accuracy of 100%** in predicting the presence of rice crops.
+- Spent approximately **30 hours** on model development and an additional 20 hours on optimization and visualization.
+- Implemented a **meticulous workflow** including data selection, transformation, preprocessing, deep learning model design, and hyperparameter tuning.
+- **Successfully applied the trained model** to make predictions and created visualizations to showcase its capabilities.
+- Demonstrated **proficiency in Python** for data science, deep learning, and managing large volumes of data.
+- Contributed to **addressing food security** challenges and supporting sustainable development efforts.
+
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79221338/226183748-afe263fb-f68b-4996-b743-e55372003f1f.jpg">
+</p>
+
+<br/><br/>
+
+### 🌾📈 EY data challenges 2023 level 2 - Regression
+- Participated in the EY Open Science Data Challenge **Level 2** to address UN Sustainable Development Goal 2: Zero Hunger.
+- Developed a solution using **machine learning techniques** to predict rice crop production in Vietnam using radar and optical satellite data.
+- Achieved an **score of 64%** and ranked among the top 5 solutions out of 1300 participants.
+- Implemented a **meticulous workflow** including data preprocessing, feature engineering, model selection, and hyperparameter tuning.
+- Demonstrated **proficiency in machine learning** technologies for regression tasks in the context of sustainable development.
+- Contributed to **addressing food security** challenges and advancing the UN Sustainable Development Goal of Zero Hunger through an open-source solution.
+
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%202)
+
+<br/><br/>
+
+### 📊💬 **Sentiment Analysis Engine - Natural Language Processing & Deep Learning**
+- **Data Collection**: Used the Amazon review data (2018) from the University of California San Diego, a 124GB file containing reviews and rankings from 1 to 5.
+- **Data Preprocessing**: Extracted data from the JSON, cut it into usable chunks, and cleaned the text by removing uppercase, punctuation, stop words, etc. Tokenized the text into vectors of dimension 200x1 and created a dictionary of 500 words.
+- **Exploratory Data Analysis**: Conducted data analysis to extract the most common words for low and high-ranking reviews and analyzed trends in the text.
+- **Model Development**: Created a deep learning model using Keras with layers including Embedding, LSTM, and Dense.
+- **Model Training**: Split the dataset and trained the model, utilizing best practices in deep learning.
+- **Model Evaluation**: Achieved an outstanding accuracy of 95% in classifying the sentiment of reviews.
+- **Deployment**: Deployed the model on a website and created a web interface, allowing users to interact with the model and analyze sentiments in real-time.
+- **Contribution**: Demonstrated expertise in natural language processing, deep learning, and extensive data handling. Provided valuable insights into customer sentiments and preferences, contributing to the growing field of sentiment analysis.
+
+[TODO] Add the website and code
+
+<br/><br/>
+
+### 🔢👁️ Digit recognizer - Computer vision
+- Developed a **convolutional neural network model** for the Kaggle Digit Recognizer competition.
+- Utilized the **Keras framework** with two convolutional layers, max pooling, and dropout layers.
+- Achieved an outstanding **accuracy of 99.2%** in recognizing handwritten digits from the MNIST dataset.
+- Applied the sparse categorical cross-entropy loss function and the Adam optimizer for model training.
+- Demonstrated **expertise in computer vision** and machine learning for image classification tasks.
+- Contributed to the field by providing an accurate solution to the challenging problem of digit recognition.
+
+[Link](https://github.com/MrBounty/Data_portfolio/tree/main/Digit%20recognizer)  
+[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-score-0-9864-conv2d-data-augmentation)
+
+Then used this model to make a simple application.  
+![most likely synonym - Google Search](https://user-images.githubusercontent.com/79221338/226188313-34b72d79-9bfe-4943-8a4c-87971bda58f8.gif)
+
+<br/><br/>
+
+### 🏠💰 House prices - Regression
+- Participated in the House Prices: Advanced Regression Techniques **Kaggle competition**, focusing on predicting the sale prices of homes in Ames, Iowa.
+- Employed **deep learning techniques** and a neural network approach using the Keras package in Python.
+- Utilized the competition dataset containing 79 explanatory variables, including house size, location, age, quality, and amenities.
+- Achieved an impressive **Root-Mean-Squared-Error (RMSE) of 0.135** in accurately predicting house sale prices.
+- Demonstrated **proficiency in deep learning** and neural network modeling for regression tasks.
+- Contributed to the field of machine learning by providing an accurate solution to the house price prediction challenge.
+
+[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)  
+[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/house-pricing-with-keras)
+
+<br/><br/>
+
+### 🚢🔢 Titanic - Binary classification
+- Participated in the Titanic and Spaceship Titanic **Kaggle challenges**, focusing on predicting binary classifications.
+- Utilized **Keras and deep learning techniques** to achieve impressive **accuracy of 0.78 and 0.8** for the Titanic and Spaceship Titanic datasets, respectively.
+- Conducted meticulous **data analysis, feature engineering, and model optimization** to craft robust solutions.
+- Successfully predicted outcomes in these two distinct scenarios, showcasing the effectiveness of the developed models.
+- Demonstrated proficiency in leveraging cutting-edge technologies and innovative approaches to tackle real-world problems.
+- Highlighted skills in **data analysis, feature engineering, and deep learning** for accurate binary classification predictions.
+
+[Spaceship titanic Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-around-0-8-accuracy)
+
+<br/><br/>
 
 ## 🗣️💻 Large language models
 
@@ -156,81 +259,6 @@ https://github.com/MrBounty/Data_portfolio/assets/79221338/aa470075-b6b0-4b1f-87
 [TODO] Add video
 
 <br/><br/>
-
-## 🤖🧠 Machine and Deep Learning
-
-### 🌾📊 EY data challenges 2023 level 1 - Time series & Binary classification
-- Developed a solution for the EY Open Science Data Challenge **Level 1** to address UN Sustainable Development Goal 2: Zero Hunger.
-- Utilized **deep learning** technologies with Keras to accurately identify rice crops in Vietnam using satellite data from the Sentinel 1 satellite.
-- Achieved an exceptional **accuracy of 100%** in predicting the presence of rice crops.
-- Spent approximately **30 hours** on model development and an additional 20 hours on optimization and visualization.
-- Implemented a **meticulous workflow** including data selection, transformation, preprocessing, deep learning model design, and hyperparameter tuning.
-- **Successfully applied the trained model** to make predictions and created visualizations to showcase its capabilities.
-- Demonstrated **proficiency in Python** for data science, deep learning, and managing large volumes of data.
-- Contributed to **addressing food security** challenges and supporting sustainable development efforts.
-
-[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%201)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/79221338/226183748-afe263fb-f68b-4996-b743-e55372003f1f.jpg">
-</p>
-
-<br/><br/>
-
-### 🌾📈 EY data challenges 2023 level 2 - Regression
-- Participated in the EY Open Science Data Challenge **Level 2** to address UN Sustainable Development Goal 2: Zero Hunger.
-- Developed a solution using **machine learning techniques** to predict rice crop production in Vietnam using radar and optical satellite data.
-- Achieved an **score of 64%** and ranked among the top 5 solutions out of 1300 participants.
-- Implemented a **meticulous workflow** including data preprocessing, feature engineering, model selection, and hyperparameter tuning.
-- Demonstrated **proficiency in machine learning** technologies for regression tasks in the context of sustainable development.
-- Contributed to **addressing food security** challenges and advancing the UN Sustainable Development Goal of Zero Hunger through an open-source solution.
-
-[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/EY%20data%20challenges%202023%20level%202)
-
-<br/><br/>
-
-### 🔢👁️ Digit recognizer - Computer vision
-- Developed a **convolutional neural network model** for the Kaggle Digit Recognizer competition.
-- Utilized the **Keras framework** with two convolutional layers, max pooling, and dropout layers.
-- Achieved an outstanding **accuracy of 99.2%** in recognizing handwritten digits from the MNIST dataset.
-- Applied the sparse categorical cross-entropy loss function and the Adam optimizer for model training.
-- Demonstrated **expertise in computer vision** and machine learning for image classification tasks.
-- Contributed to the field by providing an accurate solution to the challenging problem of digit recognition.
-
-[Link](https://github.com/MrBounty/Data_portfolio/tree/main/Digit%20recognizer)  
-[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-score-0-9864-conv2d-data-augmentation)
-
-Then used this model to make a simple application.  
-![most likely synonym - Google Search](https://user-images.githubusercontent.com/79221338/226188313-34b72d79-9bfe-4943-8a4c-87971bda58f8.gif)
-
-<br/><br/>
-
-### 🏠💰 House prices - Regression
-- Participated in the House Prices: Advanced Regression Techniques **Kaggle competition**, focusing on predicting the sale prices of homes in Ames, Iowa.
-- Employed **deep learning techniques** and a neural network approach using the Keras package in Python.
-- Utilized the competition dataset containing 79 explanatory variables, including house size, location, age, quality, and amenities.
-- Achieved an impressive **Root-Mean-Squared-Error (RMSE) of 0.135** in accurately predicting house sale prices.
-- Demonstrated **proficiency in deep learning** and neural network modeling for regression tasks.
-- Contributed to the field of machine learning by providing an accurate solution to the house price prediction challenge.
-
-[Code and more information](https://github.com/MrBounty/Data_portfolio/tree/main/House%20prices)  
-[Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/house-pricing-with-keras)
-
-<br/><br/>
-
-### 🚢🔢 Titanic - Binary classification
-- Participated in the Titanic and Spaceship Titanic **Kaggle challenges**, focusing on predicting binary classifications.
-- Utilized **Keras and deep learning techniques** to achieve impressive **accuracy of 0.78 and 0.8** for the Titanic and Spaceship Titanic datasets, respectively.
-- Conducted meticulous **data analysis, feature engineering, and model optimization** to craft robust solutions.
-- Successfully predicted outcomes in these two distinct scenarios, showcasing the effectiveness of the developed models.
-- Demonstrated proficiency in leveraging cutting-edge technologies and innovative approaches to tackle real-world problems.
-- Highlighted skills in **data analysis, feature engineering, and deep learning** for accurate binary classification predictions.
-
-[Spaceship titanic Kaggle notebook](https://www.kaggle.com/code/adrienbouvais/keras-around-0-8-accuracy)
-
-<br/><br/>
-
-[TODO] Add other projects in a list
 
 ## 📊✂️ Data manipulation
 
