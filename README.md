@@ -8,7 +8,7 @@
   - **Digit recognizer** - Computer vision
   - **House prices** - Regression
   - **Titanic** - Binary classification
-* My Projects - Large language models
+* Projects - Large language models
   - **Carbon market-focused chatbot** - A chatbot with a database of documents and url to ask question about the carbon market
   - **My chatGPT** - ChatGPT with access to internet, wikipedia, long term memory and math capabilities
   - **Excel chatbot** - Human like interaction with Excel file
