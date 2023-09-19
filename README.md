@@ -72,7 +72,8 @@ While my Master's degree in Engineering Thermal and Energy may not be the most c
 
 # 🔨 My Projects
 
-The projects presented here represent just a **small fraction of the many I've completed**, showcasing a broad spectrum of skills vital for Data Science. My passion for exploring new skills, technologies, and packages often leads me to engage in smaller projects that might not make it to my portfolio or GitHub page, as they are personal explorations rather than formal contributions, and I prefer to focus on learning and discovery rather than extensive documentation.
+The projects presented here represent just a **small fraction of the many I've completed**, showcasing a broad spectrum of skills vital for Data Science. My passion for exploring new skills, technologies, and packages often leads me to engage in projects that might not make it to my portfolio or GitHub page, as they are personal explorations rather than formal contributions, and I prefer to focus on learning and discovery rather than extensive documentation.  
+I am aware that I am missing a complete project to demonstrate my skills as a all, I am currently finish a side project (A framework to create simple deep learning model from scratch using logic gate instead of perceptron) and then I will work on it.
 
 ## 🤖🧠 Machine and Deep Learning
 
