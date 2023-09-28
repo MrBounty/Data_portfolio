@@ -5,6 +5,7 @@
   - **EY data challenges 2023 level 1** - Time series & Binary classification
   - **EY data challenges 2023 level 2** - Regression
   - **Sentiment Analysis Model** - Natural Language Processing
+  - **Multi-Framework MNIST Classifier** - Computer vision
   - **Digit recognizer** - Computer vision
   - **House prices** - Regression
   - **Titanic** - Binary classification
