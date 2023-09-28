@@ -121,6 +121,27 @@ I realize that I don't yet have a comprehensive project to showcase my skills. I
 
 <br/><br/>
 
+### 🤖🛠️ Multi-Framework MNIST Classifier
+- Created multiple classifiers to recognize handwritten digits using the MNIST dataset, each implemented with different technologies to showcase versatility in machine learning frameworks.
+- Employed Keras and PyTorch for two separate implementations, achieving an excellent test accuracy of around 97.6% for both.
+- Plans to expand the project by building classifiers using NumPy, pure Python, and Mojo programming language to further demonstrate adaptability in coding languages and machine learning libraries.
+- Utilized dense layers and implemented custom data loading functions, with meticulous work in preprocessing and model architecture.
+- Integrated time tracking to monitor the duration of model training, enhancing the efficiency of the process.
+- Demonstrated multi-framework proficiency in machine learning, showcasing the ability to adapt and implement solutions across different environments.
+- Contributed to the educational aspect of machine learning, illustrating how similar tasks can be accomplished using diverse sets of tools.
+
+| Framework      | Time to Train (seconds) | Test Accuracy (%) |
+|----------------|-------------------------|-------------------|
+| Keras          | 9.8             | 97.6              |
+| PyTorch        | 9.1             | 96.8              |
+| Numpy          | [Your Time]             | [Your Accuracy]   |
+| Pure Python    | [Your Time]             | [Your Accuracy]   |
+| Mojo           | [Your Time]             | [Your Accuracy]   |
+
+[TODO] Add the code
+
+<br/><br/>
+
 ### 🔢👁️ Digit recognizer - Computer vision
 - Developed a **convolutional neural network model** for the Kaggle Digit Recognizer competition.
 - Utilized the **Keras framework** with two convolutional layers, max pooling, and dropout layers.
