@@ -1,3 +1,5 @@
+**Disclaimer:** The current projects showcased in this portfolio emphasize quantity over quality. Please note that I am actively working on a significant project aimed at elevating the quality of my work. Thank you for your understanding.
+
 # 🗓️ Agenda
 * About me
 * My diploma
